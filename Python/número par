@@ -1,0 +1,5 @@
+x= 0
+fim = int(input('fim'))
+while x <= fim : 
+    print(x)
+    x = x+ 2

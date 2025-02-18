@@ -1,0 +1,6 @@
+s =1 
+fat =1
+while s<= 10:
+    fat = fat * s
+    s = s+1
+print (f'fat(10) ={fat}')

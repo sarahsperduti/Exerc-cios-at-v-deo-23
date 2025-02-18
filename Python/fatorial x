@@ -1,0 +1,7 @@
+s =1 
+fat =1
+n = int(input('n:'))
+while s <= n:
+    fat = fat * s
+    s = s+1
+print (f'fat({n}) ={fat}')
