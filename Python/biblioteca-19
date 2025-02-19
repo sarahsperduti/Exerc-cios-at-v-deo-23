@@ -1,0 +1,6 @@
+import random
+dir(random)
+random.randint(1,100) #escolher aleatório
+random.choice(nomes)
+random.shuffle(nomes)#sorteio aleatório
+random.sample(range(100,10))

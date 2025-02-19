@@ -1,0 +1,6 @@
+usuário = input('usuário:')
+senha = input('senha:')
+while usuário ==senha:
+    print ('senha deve ser diferente de usuário')
+    usuário = input ('usuário:')
+    senha = input ('senha:')
